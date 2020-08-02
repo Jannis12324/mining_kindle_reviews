@@ -1,5 +1,6 @@
 # mining_kindle_reviews
 This project has the goal to gather interesting business insights from kindle e-book reviews.
+Check out the medium article based on this analysis: https://medium.com/@jannis.j/mining-for-gold-in-amazon-reviews-6bf56d1c5f82
 ## Aim of the analysis
 The analysis wants to answer questions about how the customers interact with the Kindle e-book reader.
 Mainly:
